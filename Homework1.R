@@ -46,3 +46,4 @@ hist(approvedbonds$Percentage_For, main = 'Percentage of Votes for Bond', xlab =
 cor(approvedbonds$Percentage_For,approvedbonds$Amount)
 plot(approvedbonds$Percentage_For,approvedbonds$Amount, main = 'Votes For v Bond Cost', xlab='Percentage of Votes For', ylab = 'Bond Cost', pch = 20, ylim=c(0,900000000),xlim=c(40,100))
 
+#hello i dont know how to use this!!
